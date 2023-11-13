@@ -1,0 +1,17 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "my app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "purity",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
